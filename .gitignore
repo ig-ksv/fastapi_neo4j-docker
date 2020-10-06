@@ -3,4 +3,5 @@ venv/
 .DS_Store
 .idea/
 /db/
+/test_db/
 log.txt
